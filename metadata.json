@@ -1,0 +1,7 @@
+{
+  "name": "TeraFetch - Terabox Link Downloader",
+  "description": "Fast and direct Terabox file downloader, batch link resolver, video player, and download manager with multi-thread acceleration commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
